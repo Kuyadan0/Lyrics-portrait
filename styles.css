@@ -73,8 +73,9 @@ span{
 }
 
 .codes{
-    margin-left: 20px;
+    margin-left: 10px;
     margin-top: 25px;
+    width: 90%;
     border-radius: 7px;
     padding: 5px;
     border: 2px solid #2B3467;
